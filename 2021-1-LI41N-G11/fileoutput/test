@@ -1,0 +1,19 @@
+<html><head><style>table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+font-family: Arial;
+text-align: center;
+
+}</style></head><body><ul><li>User Id - 1
+	Name - John Doe                                          
+	E-mail -JoDoe@gmail.com                                   
+</li><li>
+Review Id - 1
+Review Summary: Very Entertaining                                 
+</li><li>
+Review Id - 2
+Review Summary: Very Entertaining                                 
+</li><li>
+Review Id - 3
+Review Summary: Very Entertaining                                 
+</li> USER </ul><Button>Return Home</Button></body></html>
